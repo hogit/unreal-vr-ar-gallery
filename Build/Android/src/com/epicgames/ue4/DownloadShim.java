@@ -1,7 +1,7 @@
 package com.epicgames.ue4;
 
-import com.Hogben.Gallery.OBBDownloaderService;
-import com.Hogben.Gallery.DownloaderActivity;
+import com.Hogben.UnrealVrArGallery.OBBDownloaderService;
+import com.Hogben.UnrealVrArGallery.DownloaderActivity;
 
 
 public class DownloadShim

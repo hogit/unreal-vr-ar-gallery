@@ -1,5 +1,5 @@
-Gallery\Binaries\Win64\Gallery.exe	2017-08-19T23:17:27.702Z
-Gallery.exe	2017-08-22T06:58:16.998Z
+UnrealVrArGallery\Binaries\Win64\UnrealVrArGallery.exe	2017-08-22T08:15:36.057Z
+UnrealVrArGallery.exe	2017-08-22T08:16:28.981Z
 Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe	2017-08-04T03:51:38.132Z
 Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.dll	2017-08-04T03:48:38.695Z
 Engine\Binaries\ThirdParty\Windows\DirectX\x64\WinPixEventRuntime.dll	2017-08-04T03:48:46.311Z
