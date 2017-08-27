@@ -13,5 +13,6 @@ echo Removing old data. Failures here are usually fine - indicating the files we
 %ADB% %DEVICE% shell rm -r %STORAGE%/UE4Game/UnrealVrArGallery
 %ADB% %DEVICE% shell rm -r %STORAGE%/UE4Game/UE4CommandLine.txt
 %ADB% %DEVICE% shell rm -r %STORAGE%/obb/com.Hogben.UnrealVrArGallery
+%ADB% %DEVICE% shell rm -r %STORAGE%/Android/obb/com.Hogben.UnrealVrArGallery
 @echo.
 @echo Uninstall completed

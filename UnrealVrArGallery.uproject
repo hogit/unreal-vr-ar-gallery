@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.16",
+	"EngineAssociation": "4.17",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,11 +13,6 @@
 			"Name": "LowEntrySocketConnection",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/a8cf875efc8d4be3b2ab5f369241797c"
-		},
-		{
-			"Name": "GameSparks",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0bb7b72905c64c7d86c4c430a42bc9c1"
 		}
 	],
 	"TargetPlatforms": [
