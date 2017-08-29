@@ -1,5 +1,5 @@
 UnrealVrArGallery/Binaries/Win64/UnrealVrArGallery.exe	2017-08-26T11:12:55.626Z
-UnrealVrArGallery.exe	2017-08-28T14:46:32.519Z
+UnrealVrArGallery.exe	2017-08-29T14:49:52.840Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2017-08-09T05:01:25.726Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2017-08-09T04:57:09.698Z
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.dll	2017-08-09T04:57:09.500Z
