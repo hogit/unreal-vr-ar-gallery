@@ -13,6 +13,10 @@
 			"Name": "LowEntrySocketConnection",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/a8cf875efc8d4be3b2ab5f369241797c"
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
