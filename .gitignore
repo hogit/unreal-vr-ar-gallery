@@ -170,4 +170,8 @@ node_modules/**
 **.suo
 
 # FMOD project exception
-!/FMOD_UnrealVrArGallery/**
+!/FMOD_UnrealVrArGallery/Assets/**
+!/FMOD_UnrealVrArGallery/Build/**
+!/FMOD_UnrealVrArGallery/Metadata/**
+!/FMOD_UnrealVrArGallery/Plugins/**
+!*.fspro
