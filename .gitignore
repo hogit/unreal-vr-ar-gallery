@@ -168,3 +168,6 @@ node_modules/**
 
 # Ignore local VS file.
 **.suo
+
+# FMOD project exception
+!/FMOD_UnrealVrArGallery/**
