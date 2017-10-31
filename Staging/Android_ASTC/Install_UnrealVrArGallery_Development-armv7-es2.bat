@@ -20,6 +20,8 @@ for /f "delims=" %%A in ('%ADB% %DEVICE% shell "echo $EXTERNAL_STORAGE"') do @se
 
 
 
+
+
 @echo.
 
 
