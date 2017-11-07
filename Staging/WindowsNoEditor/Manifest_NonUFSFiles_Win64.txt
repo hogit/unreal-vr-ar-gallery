@@ -1,5 +1,5 @@
 UnrealVrArGallery/Binaries/Win64/UnrealVrArGallery.exe	2017-11-03T03:08:50.729Z
-UnrealVrArGallery.exe	2017-11-04T18:45:55.816Z
+UnrealVrArGallery.exe	2017-11-07T03:07:38.284Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2017-11-03T02:14:41.009Z
 UnrealVrArGallery/Plugins/FMODStudio/Binaries/Win64/fmodL64.dll	2017-09-22T02:50:27.012Z
 UnrealVrArGallery/Plugins/FMODStudio/Binaries/Win64/fmodstudioL64.dll	2017-09-22T02:50:29.418Z
